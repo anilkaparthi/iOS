@@ -35,6 +35,7 @@ class ViewController: UIViewController {
         messageText.resignFirstResponder()
         messageLabel.textColor = UIColor.red
         mailButton.setTitle("Mail Sent", for: UIControlState.normal)
+        // comments
         
     }
 
